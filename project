@@ -1,0 +1,50 @@
+1	Todo-list	App	hung.nv14	"+ Thêm, sửa, xóa task 
++ Hiển thị task trên lits view"	"+ Task có đính kèm ảnh
++ Lọc task theo chủ đề
++ Nhắc nhở khi task đến ngày thực hiện"	"+ Thêm widget ở màn hình chính cho task
++ Đăng nhập trên nhiều device"
+
+2	Photo Filter	App	manh.tinh	"- Application works with basic functions: Color, B&W, Negative filters…
+- Friendly UX, same as current products on market."	"- Applying advanced technique, just like Interface, Abstract class… that helps application can be scalable. 
+- Be able to use the images processing libraries,"	"- Good architecture (easy to maintain, separate View/ Business logic layers)
+- Knowing how to release un-used memory, optimize memory usages while processing the images."
+
+3	Alarm	App	luong.nt6	"- Set alarm
+- Add, Edit, remove alarm items"	"- Music alarm -  Choose favorite musi, random song 
+- Set alarm sound and volumn for alarm
+- Loop/Ignore alarm option
+- Set alarm for many days
+"	"- Good design  and good GUI for app
+- Upcoming alarm notifications 
+- More functionality for app:
+  + Timer, Stopwatch
+  + Quick alarm
+  + Auto Snooze/ Auto Dismiss
+  + Solve math problem to  snooze/disable ...
+"
+///////////////////////////
+4	QR Scanner	App	vanhoa.ph	"- Choose Scan QR library
+- Import lib
+- QR Code Generator (save to external storage)
+- QR Image picker from external storage
+- Scan QR image to text and show text
+"	"- Check type of QR
+- Add actions for each type
+1. Location : show map
+2. Contact : add contact, call
+3. Email : send email
+4. etc…
+- Share QR information option
+- Save/View QR activity histories"	"- Don't use existed library
+- Research Image Processing Technology then make QR Generator / Scanner library"
+/////////////////////////
+5	My File	App	toan.pm1	"- Application  works with simple UI & Basic function: View, Rename, Move, Delete, Open  & Up one level.
+- Friendly UX, same as current products on market.
+- Group java classes into packages with same fuctions."	"- Applying  advanced technique, just like Interface, Abstract class… that helps  Application can be scalable.
+ - Have advanced function like: Zip/Unzip/MP4 player/ Exif viewer  function
+ - Smart & Friendly UX"	"- Good  architecture (easy to maintain, separate View/Business logic layers with  utilities class, apply MVVM). 
+- Be able to apply modern libraries: dependencies injection, event bus…"
+////////////////////
+6	Calculator	App	huy.pq1	Implement basic function :  X / + -	Added Log , Sin Cos Tan, … & Apply UI design, Clean code	Apply Layout on landscape, portrait mode to fit screen & Advanced math function.
+Apply Layout on landscape, portrait mode to fit screen & Advanced math function.
+
